@@ -7,3 +7,9 @@ function baller(name='no name') {
 }
 
 baller()
+
+function taller() {
+    return 'I wish I was taller'
+}
+
+taller()
