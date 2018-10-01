@@ -1,5 +1,5 @@
-function things() {
-    return 'things'
+function things(num) {
+    return num * 4
 }
 
-things()
+things(47)
