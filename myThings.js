@@ -3,3 +3,9 @@ function things(){
 }
 
 things()
+
+function mythings(){
+    return 'this is my other thing'
+}
+
+mythings()
