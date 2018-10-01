@@ -1,8 +1,8 @@
 function baller(name='no name') {
-    if (name = "Kelby") {
+    if (name === "Kelby") {
         console.log(`I'm a baller`)
     } else {
-        return 'I wish I was a baller'
+        return 'nope, I dont do random'
     }
 }
 
